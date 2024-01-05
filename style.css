@@ -1,8 +1,21 @@
 body{
     background-color: white;
     color: black;
+    font-size: 40px;
+    text-align: center;
 }
 header{
     background-color: #0062f5;
+}
+
+a{
     color:white;
+    text-align: center;
+    text-shadow: black;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+a:hover{
+    color: yellow;
 }
