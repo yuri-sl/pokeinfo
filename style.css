@@ -1,6 +1,13 @@
+ *{
+    margin:0;
+    padding:0;
+}
+
 body{
+    height:300vh;
+    box-sizing: border-box;
     background-color: white;
-    color: black;
+    color: blacred;
     font-size: 40px;
     text-align: center;
 }
@@ -18,4 +25,13 @@ a{
 
 a:hover{
     color: yellow;
+}
+
+.Titulo_Destaque_1{
+    color:aqua;
+}
+
+.exercicio_1{
+    color:yellow;
+    border:black;
 }
